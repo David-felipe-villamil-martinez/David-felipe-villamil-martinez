@@ -1,5 +1,5 @@
 ## Hi there 👋
-:que hago?: **Founder & CEO de MAM Consultants (AI Automation & AI Employees)**  
+:rocket: **Founder & CEO de MAM Consultants (AI Automation & AI Employees)**  
 :computer: **Desarrollador** — TypeScript, React/Next.js, Node.js, Python, n8n, OpenAI  
 :round_pushpin: **South Florida (Miami → Fort Lauderdale → Boca Raton)** — visa de inversión **E-2**  
 :books: **Educo equipos en IA** (LLMs, prompting, Agent Mode, adopción en pymes)  
